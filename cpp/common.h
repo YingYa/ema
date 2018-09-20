@@ -53,8 +53,8 @@
 
 /******************************************************************************/
 
-const int MATE1_TRIM = 7;
-const int BC_LEN = 16;
+const int MATE1_TRIM = 0;
+const int BC_LEN = 30;
 
 const int ILLUMINA_QUAL_OFFSET = 33;
 const int QUAL_BASE = ILLUMINA_QUAL_OFFSET + 1;
